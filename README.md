@@ -28,7 +28,7 @@ Therefore, you may run the notebook without downloding the dataset.
 
 The Gradient Boosting model ```model_pkl``` is exported from the Colab Notebook.
 
-You may download it to deploy in your own application
+You may download it to deploy in your own application.
 
 ### Web Application with Model Deployed
 
