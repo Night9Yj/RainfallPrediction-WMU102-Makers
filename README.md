@@ -32,7 +32,6 @@ You may download it to deploy in your own application.
 
 ### Web Application with Model Deployed
 
-To access the web application with the model deployed in Heroku, you may access this link:
-
-https://penang-rainfall-prediction.herokuapp.com/
+Access the codes for web application in this repository:
+https://github.com/Night9Yj/deploy-model
 
